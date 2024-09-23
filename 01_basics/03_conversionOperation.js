@@ -1,11 +1,11 @@
 let age = "33abc"
 
-console.log(typeof age);
-console.log(typeof (age));
+//console.log(typeof age);
+//console.log(typeof (age));
 
 let valueInt = Number(age)
-console.log(typeof valueInt);
-console.log(valueInt);
+//console.log(typeof valueInt);
+//console.log(valueInt);
 
 
 // "33" => 33
@@ -15,7 +15,7 @@ console.log(valueInt);
 let login = "satyam"
 
 let booleanLogin = Boolean(login)
-console.log(booleanLogin)
+//console.log(booleanLogin)
 
 
 // 1 => true; 0 => false
@@ -25,5 +25,24 @@ console.log(booleanLogin)
 let someNumber = 33
 
 let stringNumber = String(someNumber)
-console.log(stringNumber);
-console.log(typeof stringNumber)
+//console.log(stringNumber);
+//console.log(typeof stringNumber)
+
+
+// ***************************** Operations *****************************
+
+let value = 3
+let negValue = -value
+//console.log(negValue);
+
+//console.log(2+2);
+//console.log(2-2);
+//console.log(2**2);    2 ki power 2
+
+
+
+
+
+
+
+
